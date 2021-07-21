@@ -3,7 +3,6 @@ import axios from 'axios';
 
 import logo from './logo.svg';
 import './App.css';
-import { response } from 'express';
 
 function App() {
 
